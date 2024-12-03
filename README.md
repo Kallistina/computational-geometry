@@ -1,6 +1,11 @@
 # Υπολογιστική Γεωμετρία (Computational Geometry)
 
-This repository contains implementations of various computational geometry algorithms and linear programming problems, including convex hull algorithms, Voronoi diagrams, Delaunay triangulations, and the incremental algorithm for solving linear programming problems. 
+This repository contains implementations of various computational geometry algorithms and linear programming problems, including convex hull algorithms, Voronoi diagrams, Delaunay triangulations, and the incremental algorithm for solving linear programming problems.
+
+## Course Information
+
+This project is part of the course **Υπολογιστική Γεωμετρία (Computational Geometry)**  
+Course Code: **ΘΠ11**
 
 ## Contents
 
